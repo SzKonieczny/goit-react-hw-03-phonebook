@@ -1,0 +1,14 @@
+.filterContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  margin: 5px 0;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.filterContainer > input {
+  margin-left: 0px;
+}
