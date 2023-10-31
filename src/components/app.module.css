@@ -1,0 +1,15 @@
+.container {
+  margin: 25px auto;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+
+  background-color: burlywood;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px 5px rgb(21, 21, 21, 0.8);
+
+  max-width: 350px;
+}
